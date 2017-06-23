@@ -1,0 +1,7 @@
+role XSA_APPS::test_app_user
+{
+catalog sql object "MYCJ"."XSA_APPS.data::mydata.Book": //Objecttype: TABLE
+	SELECT, INSERT, UPDATE, DELETE;
+
+
+}

@@ -1,0 +1,7 @@
+import	= 	[
+    			{
+					cdstable  =	"XSA_APPS.data::mydata.Book";
+					file = "XSA_APPS.data:sample_book_list.csv"; 	     
+					header = false;		
+    			}
+     		];

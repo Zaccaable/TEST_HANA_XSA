@@ -1,0 +1,3 @@
+service namespace "XSA_APPS.services" {
+	"XSA_APPS.data::mydata.Book" as "library";
+}
